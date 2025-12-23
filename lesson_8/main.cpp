@@ -5,5 +5,5 @@ using namespace std;
 
 // Операторы
 int main() {
-	// Increment/Decrement
+	
 }
